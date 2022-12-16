@@ -1,0 +1,8 @@
+:- dynamic toy/3.
+
+toy("TES", 700, 18).
+toy("Barbie", 500, 1).
+toy("Lego", 500, 2).
+toy("Tower", 501, 0).
+toy("HK", 100, 12).
+
